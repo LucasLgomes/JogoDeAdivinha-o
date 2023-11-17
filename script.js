@@ -17,9 +17,9 @@ fetch('palavras.json')
         function atualizarCoracoes() {
             for (let i = 0; i < coracoes.length; i++) {
                 if (i < erros) {
-                    coracoes[i].src = "img/coracaovazio.png";
+                    coracoes[i].src = "coracaovazio.png";
                 } else {
-                    coracoes[i].src = "img/coracao.png";
+                    coracoes[i].src = "coracao.png";
                 }
             }
         }
