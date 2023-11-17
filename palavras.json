@@ -1,0 +1,204 @@
+{
+  "facil":[
+     {
+        "palavra":"Bug",
+        "dica":"Não é um inseto, mas os desenvolvedores o odeiam"
+     },
+     {
+        "palavra":"Commit",
+        "dica":"Não é um crime, mas você pode se arrepender se fizer errado"
+     },
+     {
+        "palavra":"Push",
+        "dica":"Não é um empurrão físico, mas pode causar conflitos"
+     },
+     {
+        "palavra":"Fork",
+        "dica":"Não é um utensílio de cozinha, mas ajuda a servir novas ideias"
+     },
+     {
+        "palavra":"Branch",
+        "dica":"Não é uma parte de uma árvore, mas pode ter muitos commits"
+     },
+     {
+        "palavra":"Deploy",
+        "dica":"Não faça isso na sexta-feira"
+     },
+     {
+        "palavra":"Refactor",
+        "dica":"Não é uma reforma de casa, mas pode levar muito tempo e esforço"
+     },
+     {
+        "palavra":"Debug",
+        "dica":"Não é matar insetos, mas pode ser tão frustrante"
+     },
+     {
+        "palavra":"Script",
+        "dica":"Não é um roteiro de filme, mas pode ter muitos atos"
+     },
+     {
+        "palavra":"Loop",
+        "dica":"Não é um anel, mas pode continuar para sempre se você não for cuidadoso"
+     },
+     {
+        "palavra":"IDE",
+        "dica":"Não é uma ideia, mas pode ajudar a implementá-las"
+     },
+     {
+        "palavra":"HTML",
+        "dica":"Não é um e-mail, mas pode criar uma página da web"
+     },
+     {
+        "palavra":"CSS",
+        "dica":"Não é um serviço de segurança, mas pode fazer as coisas parecerem bonitas"
+     },
+     {
+        "palavra":"API",
+        "dica":"Não é uma abelha, mas pode se conectar a outras coisas"
+     },
+     {
+        "palavra":"Server",
+        "dica":"Não é um garçom, mas pode servir muitas coisas"
+     },
+     {
+        "palavra":"Client",
+        "dica":"Não é um cliente em uma loja, mas pode pedir muitas coisas"
+     },
+     {
+        "palavra":"Database",
+        "dica":"Não é uma base de dados em papel, mas pode armazenar muitas informações"
+     },
+     {
+        "palavra":"Query",
+        "dica":"Não é uma pergunta, mas pode obter muitas respostas"
+     },
+     {
+        "palavra":"Feature",
+        "dica":"Não é um filme, mas pode ser emocionante"
+     }
+  ],
+  "medio":[
+     {
+        "palavra":"Array",
+        "dica":"Não é um arranjo floral, mas pode conter muitos itens"
+     },
+     {
+        "palavra":"Boolean",
+        "dica":"Não é um habitante da Bolívia, mas tem dois estados"
+     },
+     {
+        "palavra":"Callback",
+        "dica":"Não é uma ligação de retorno, mas pode ser chamada mais tarde"
+     },
+     {
+        "palavra":"Class",
+        "dica":"Não é uma aula, mas pode ter muitos estudantes (instâncias)"
+     },
+     {
+        "palavra":"Closure",
+        "dica":"Não é o fechamento de uma loja, mas pode lembrar de coisas do passado"
+     },
+     {
+        "palavra":"Constructor",
+        "dica":"Não é um trabalhador da construção civil, mas pode construir coisas"
+     },
+     {
+        "palavra":"DOM",
+        "dica":"Não é um nome masculino, mas pode ter muitos filhos (nós)"
+     },
+     {
+        "palavra":"Event",
+        "dica":"Não é uma festa, mas você pode ouvir (ouvir) isso"
+     },
+     {
+        "palavra":"Function",
+        "dica":"Não é uma função social, mas pode ser chamada"
+     },
+     {
+        "palavra":"Garbage Collection",
+        "dica":"Não é uma coleta de lixo, mas pode limpar coisas desnecessárias"
+     }
+  ],
+  "dificil":[
+     {
+        "palavra":"Hoisting",
+        "dica":"Não é içar uma bandeira, mas pode levar as coisas para cima"
+     },
+     {
+        "palavra":"Inheritance",
+        "dica":"Não é uma herança familiar, mas pode passar coisas adiante"
+     },
+     {
+        "palavra":"JSON",
+        "dica":"Não é um nome pessoal, mas pode ter muitas propriedades"
+     },
+     {
+        "palavra":"Keyword",
+        "dica":"Não é uma palavra-chave de SEO, mas pode ser muito poderosa"
+     },
+     {
+        "palavra":"Library",
+        "dica":"Não é uma biblioteca de livros, mas pode ter muitas funções"
+     },
+     {
+        "palavra":"Method",
+        "dica":"Não é um método de ensino, mas pode fazer coisas"
+     },
+     {
+        "palavra":"NaN",
+        "dica":"Não é um nome, mas pode ser o resultado de uma operação matemática ruim"
+     },
+     {
+        "palavra":"Null",
+        "dica":"Não é nulo em matemática, mas pode representar a ausência de valor"
+     },
+     {
+        "palavra":"Object",
+        "dica":"Não é um objeto físico, mas pode conter muitas coisas"
+     },
+     {
+        "palavra":"Parameter",
+        "dica":"Não é um parâmetro de um experimento, mas pode afetar o resultado"
+     },
+     {
+        "palavra":"Promise",
+        "dica":"Não é uma promessa que você faz, mas pode ser resolvida ou rejeitada"
+     },
+     {
+        "palavra":"Prototype",
+        "dica":"Não é um protótipo de um produto, mas pode ser usado para criar outros objetos"
+     },
+     {
+        "palavra":"Regex",
+        "dica":"Não é um nome real, mas pode ser muito complicado"
+     },
+     {
+        "palavra":"Scope",
+        "dica":"Não é um escopo de um rifle, mas pode limitar o que você vê"
+     },
+     {
+        "palavra":"String",
+        "dica":"Não é uma corda, mas pode ser muito longa"
+     },
+     {
+        "palavra":"Syntax",
+        "dica":"Não é uma sintaxe gramatical, mas pode ser muito rigorosa"
+     },
+     {
+        "palavra":"Variable",
+        "dica":"Não é variável em matemática, mas pode mudar"
+     },
+     {
+        "palavra":"Whitespace",
+        "dica":"Não é um espaço em branco em um papel, mas pode fazer o código mais legível"
+     },
+     {
+        "palavra":"Wildcard",
+        "dica":"Não é um cartão coringa, mas pode representar muitas coisas"
+     },
+     {
+        "palavra":"XML",
+        "dica":"Não é um nome de super-herói, mas pode ter muitos elementos"
+     }
+  ]
+}

@@ -1,0 +1,113 @@
+body{
+    background-image: url(img/fundov.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+@font-face {
+    font-family: 'Silkscreen';
+    src: url('fonts/Silkscreen-Bold.ttf') format('truetype'),
+         url('fonts/Silkscreen-Regular.ttf') format('truetype');
+}
+
+@font-face {
+    font-family: 'Stepalange-x3BLm';
+    src: url('fonts/Stepalange-x3BLm.otf') format('truetype'),
+}
+
+
+h1 {
+    font-family: 'Silkscreen', sans-serif;
+    text-align: center;
+}
+
+.introducao {
+    font-family: 'Stepalange-x3BLm';
+    font-size: 17px;
+    text-align: center;
+    max-width: 800px;
+    margin: auto;
+  }
+
+
+#dificuldadeForm {
+  font-family: 'Stepalange-x3BLm';  
+  display: flex;
+  justify-content: center;
+  gap: 25px;
+  margin-top: 28px;
+}
+
+#play {
+    font-size: 20px;
+    padding: 10px 20px;
+    border: none;
+    background-color: #4CAF50; /* verde */
+    color: white;
+    cursor: pointer;
+    margin-left: 635px;
+    margin-top: 15px;
+    
+}
+
+
+@keyframes pulsar {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+}
+
+#coracoes {
+    display: flex;
+    width: 45px;
+    height: auto;
+    animation: pulsar 1.5s infinite;
+}
+
+.score{
+    font-family: 'Stepalange-x3BLm';
+}
+
+#formPalavra{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-top: 30px;
+}
+
+input[type="text"] {
+    font-size: 16px;
+    font-family: 'Stepalange-x3BLm';
+    margin-left: 49px;
+    border: none;
+    background: none;
+    border-bottom: 2px solid black;
+    margin-top: 150px;
+    outline-style: none;
+}
+
+button {
+    font-family: 'Stepalange-x3BLm';
+    font-size: 16px;
+    width: 100px; /* Altere este valor para o tamanho que você deseja */
+    height: 40px; /* Altere este valor para o tamanho que você deseja */
+    border-radius: 20px; /* Altere este valor para o arredondamento que você deseja */
+    padding: 5px;
+    margin-top: 150px;
+}
+
+#iconeDica {
+    cursor: pointer;
+    width: 55px;
+    height: auto;
+    margin-top: 50px;
+}
+
+#dica strong {
+    font-size: 1.6em; /* Ajuste este valor para alterar o tamanho do texto */
+}
+
+#dicaTexto {
+    font-family: 'Silkscreen', sans-serif; /* Ajuste este valor para alterar a fonte do texto */
+    
+}

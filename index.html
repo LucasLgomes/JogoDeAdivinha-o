@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Adivinhe</title>
+</head>
+<body>
+    <h1>Jogo de adivinhação</h1>
+
+    <p class="introducao">
+        Bem-vindo ao nosso Jogo de Adivinhação para Desenvolvedores!<br><br>
+        Este é um jogo divertido e desafiador onde você terá que adivinhar palavras que são comumente usadas no mundo do desenvolvimento de software. As palavras podem variar desde termos técnicos que os desenvolvedores usam todos os dias, até jargões e memes que só fazem sentido se você passa muito tempo codificando.<br><br>
+        O jogo tem três níveis de dificuldade: <strong>fácil</strong>, <strong>médio</strong> e <strong>dícil</strong>. Em cada rodada, você receberá uma dica e terá que adivinhar a palavra. Quanto mais difícil o nível, mais obscura será a dica.<br><br>
+        Então, prepare-se para testar seus conhecimentos de desenvolvimento de software e ver quantas palavras você consegue adivinhar!
+    </p>
+
+    <form id="dificuldadeForm">
+        <input type="radio" id="facil" name="dificuldade" value="facil">
+        <label for="facil">Fácil</label><br>
+        <input type="radio" id="medio" name="dificuldade" value="medio">
+        <label for="medio">Médio</label><br>
+        <input type="radio" id="dificil" name="dificuldade" value="dificil">
+        <label for="dificil">Difícil</label>
+      </form>
+<br>
+
+<button id="play">Play</button>
+
+<div id="coracoes">
+    <img id="coracao1" src="img/coracao.png" alt="Coração cheio">
+    <img id="coracao2" src="img/coracao.png" alt="Coração cheio">
+    <img id="coracao3" src="img/coracao.png" alt="Coração cheio">
+    <img id="coracao4" src="img/coracao.png" alt="Coração cheio">
+    <img id="coracao5" src="img/coracao.png" alt="Coração cheio">
+</div>
+
+
+
+    <form id="formPalavra">
+        <input type="text" id="palavra" name="palavra" required>
+        <button type="submit">Verificar</button>
+      </form>
+<br>
+
+<div id="dicaContainer">
+    <img src="img/dica.png" id="iconeDica" alt="Ícone de dica">
+    <p id="dica" style="display: none;"><strong>Dica:</strong> <span id="dicaTexto"></span></p>
+</div>
+
+      
+<script src="script.js"></script>
+</body>
+</html>
