@@ -1,18 +1,18 @@
 body{
-    background-image: url(img/fundov.jpg);
+    background-image: url(fundov.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 @font-face {
     font-family: 'Silkscreen';
-    src: url('fonts/Silkscreen-Bold.ttf') format('truetype'),
-         url('fonts/Silkscreen-Regular.ttf') format('truetype');
+    src: url('Silkscreen-Bold.ttf') format('truetype'),
+         url('Silkscreen-Regular.ttf') format('truetype');
 }
 
 @font-face {
     font-family: 'Stepalange-x3BLm';
-    src: url('fonts/Stepalange-x3BLm.otf') format('truetype'),
+    src: url('Stepalange-x3BLm.otf') format('truetype'),
 }
 
 
